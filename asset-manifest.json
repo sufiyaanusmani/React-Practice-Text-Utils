@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/react-practice-text-utils/static/css/main.31d6cfe0.css",
-    "main.js": "/react-practice-text-utils/static/js/main.4b2579ce.js",
-    "index.html": "/react-practice-text-utils/index.html",
-    "main.4b2579ce.js.map": "/react-practice-text-utils/static/js/main.4b2579ce.js.map"
+    "main.css": "/React-Practice-Text-Utils/static/css/main.31d6cfe0.css",
+    "main.js": "/React-Practice-Text-Utils/static/js/main.4b2579ce.js",
+    "index.html": "/React-Practice-Text-Utils/index.html",
+    "main.4b2579ce.js.map": "/React-Practice-Text-Utils/static/js/main.4b2579ce.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
